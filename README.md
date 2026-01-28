@@ -17,12 +17,13 @@
 </div>
 
 ### Career Highlights
-- **Bitget** (Global top-tier crypto exchange – consistently ranked in the top 3–5 worldwide for futures/derivatives volume in 2026, with 100M+ users and trillions in cumulative trading volume)  
+- **Bitget** (Global top-tier crypto exchange – consistently ranked in the top 3–5 worldwide for futures/derivatives volume, with explosive growth to 120M+ ecosystem users and trillions in cumulative trading volume)  
   **Frontend Lead / Web Frontend Leader**　Sep 2022 – Oct 2025  
   - Led architecture and development for multiple compliant/regional sites (Korea ×2, Vietnam, Turkey, Europe, etc.)  
   - Owned frontend for core business lines: Assets Management, Futures/Contracts Trading, P2P, Copy Trading  
   - Early contributor to overall frontend tech stack decisions (React/Next.js + TypeScript + SSR/SSG)  
   - Built high-performance custom contract K-line charts (deep TradingView customization + Custom Kline)  
+  - **Key Impact**: Contributed to platform scaling during massive user growth—from a few million active users when joining to over 100 million registered users by late 2024 (400%+ growth in 2024 alone) and 120M+ ecosystem users by 2025, enabling seamless handling of surging traffic and global expansion  
   - Led team to deliver high-quality work under tight deadlines, supporting rapid business scaling and massive liquidity growth
 
 - **Chengdu Dingyuan Taifu Asset Management Center**  
